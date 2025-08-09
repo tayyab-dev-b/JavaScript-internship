@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>camelCase Converter</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      background: #f4f4f4;
+    }
+
+    h1 {
+      color: #333;
+    }
+
+    textarea {
+      width: 300px;
+      height: 150px;
+      padding: 10px;
+      margin-bottom: 10px;
+      font-size: 16px;
+      border: 2px solid #ccc;
+      border-radius: 8px;
+      outline: none;
+      resize: none;
+    }
+
+    button {
+      padding: 10px 20px;
+      font-size: 16px;
+      cursor: pointer;
+      background: #28a745;
+      color: white;
+      border: none;
+      border-radius: 8px;
+      transition: background 0.3s ease;
+    }
+
+    button:hover {
+      background: #218838;
+    }
+
+    .output {
+      margin-top: 20px;
+      text-align: left;
+      width: 320px;
+      background: white;
+      padding: 15px;
+      border-radius: 8px;
+      border: 1px solid #ccc;
+      font-family: monospace;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>camelCase Converter</h1>
+  <textarea placeholder="Enter variables in underscore_case here..."></textarea>
+  <button>Convert</button>
+  <div class="output"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
