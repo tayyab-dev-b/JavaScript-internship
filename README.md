@@ -19,6 +19,9 @@ The goal is to improve my understanding of **core JavaScript concepts**, problem
 
 ## 📂 Repository Structure
 
+- 📁 **Assignments**
+  - 📁 **JS-fundamentals-part1-Assignments** → Core JavaScript fundamentals assignments
+  - 📁 **JS-fundamentals-part2-Assignments** → More JavaScript fundamentals assignments
 📁 **Data-structure-operators** → Practice tasks on JavaScript data structures and operators  
 📁 **Developer skill & editor setup_challenge** → Exercises for improving coding skills and editor setup  
 📁 **Guess_My _Number_Game** → A JavaScript number guessing game project  
