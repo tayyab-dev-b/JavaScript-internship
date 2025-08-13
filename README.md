@@ -12,6 +12,8 @@ The goal is to improve my understanding of **core JavaScript concepts**, problem
 - ES6+ Features (Destructuring, Spread, Template Literals, etc.)
 - DOM Manipulation
 - Event Handling
+-IIFE(Immediately Invoked Function Expression)
+-closures
 -Mini JavaScript Projects
 
 
@@ -35,6 +37,9 @@ The goal is to improve my understanding of **core JavaScript concepts**, problem
 - 📁 closer-look-at-functions → Advanced JavaScript concepts and challenges:
   - 📁 ch#1 → First challenge on functions  
   - 📁 ch#2 → IIFE (Immediately Invoked Function Expression) and closures challenge, changing header color on click 
+. **working-with-Arrays**
+   - ch#1 → Working with Arrays challenge #1  
+
 📄 **.gitignore** → Files and folders ignored by Git  
 📄 **README.md** → Project documentation
 
