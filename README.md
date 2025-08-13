@@ -31,7 +31,10 @@ The goal is to improve my understanding of **core JavaScript concepts**, problem
   📁 challenge#3 → JavaScript challenge 3  
   📁 challenge#4 → JavaScript challenge 4  
 📁 **Project#2_window-Model** → JavaScript project implementing a modal/popup window  
-📁 **part_2** → Additional JavaScript tasks and projects  
+📁 **part_2** → Additional JavaScript tasks and projects 
+- 📁 closer-look-at-functions → Advanced JavaScript concepts and challenges:
+  - 📁 ch#1 → First challenge on functions  
+  - 📁 ch#2 → IIFE (Immediately Invoked Function Expression) and closures challenge, changing header color on click 
 📄 **.gitignore** → Files and folders ignored by Git  
 📄 **README.md** → Project documentation
 
