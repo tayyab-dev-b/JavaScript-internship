@@ -14,6 +14,7 @@ The goal is to improve my understanding of **core JavaScript concepts**, problem
 - Event Handling
 -IIFE(Immediately Invoked Function Expression)
 -closures
+-forEach
 -Mini JavaScript Projects
 
 
@@ -38,7 +39,10 @@ The goal is to improve my understanding of **core JavaScript concepts**, problem
   - 📁 ch#1 → First challenge on functions  
   - 📁 ch#2 → IIFE (Immediately Invoked Function Expression) and closures challenge, changing header color on click 
 . **working-with-Arrays**
-   - ch#1 → Working with Arrays challenge #1  
+-This folder contains practice tasks for JavaScript array methods and related concepts.
+   - ch#1 → Working with Arrays challenge  
+   -ch#2→ Working with Arrays challenge#2 -> Convert dog ages to human ages, filter adults, and calculate average.
+   -ch#3→ Working with Arrays challenge#3 ->  Same as Challenge #2 but using arrow functions and method chaining
 
 📄 **.gitignore** → Files and folders ignored by Git  
 📄 **README.md** → Project documentation
