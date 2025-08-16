@@ -6,7 +6,7 @@ The goal is to improve my understanding of **core JavaScript concepts**, problem
 - Variables, Data Types, and Operators
 - Conditional Statements and Loops
 - Functions (Regular & Arrow Functions)
-- Arrays and Array Methods (map, filter, reduce, etc.)
+- Arrays and Array Methods (map, filter, reduce,find,findIndex,some,every,sort,flatMap, etc.)
 - Strings and String Methods
 - Objects and Object Manipulation
 - ES6+ Features (Destructuring, Spread, Template Literals, etc.)
@@ -43,6 +43,7 @@ The goal is to improve my understanding of **core JavaScript concepts**, problem
    - ch#1 → Working with Arrays challenge  
    -ch#2→ Working with Arrays challenge#2 -> Convert dog ages to human ages, filter adults, and calculate average.
    -ch#3→ Working with Arrays challenge#3 ->  Same as Challenge #2 but using arrow functions and method chaining
+   -ch#4→ Challenge #4 - Dog Food Portion Analysis 🐕
 
 📄 **.gitignore** → Files and folders ignored by Git  
 📄 **README.md** → Project documentation
