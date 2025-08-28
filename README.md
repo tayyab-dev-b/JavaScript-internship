@@ -6,16 +6,45 @@ The goal is to improve my understanding of **core JavaScript concepts**, problem
 - Variables, Data Types, and Operators
 - Conditional Statements and Loops
 - Functions (Regular & Arrow Functions)
-- Arrays and Array Methods (map, filter, reduce,find,findIndex,some,every,sort,flatMap, etc.)
+- Arrays and Array Methods (map, filter, reduce, find, findIndex, some, every, sort, flatMap, etc.)
 - Strings and String Methods
 - Objects and Object Manipulation
 - ES6+ Features (Destructuring, Spread, Template Literals, etc.)
-- DOM Manipulation
-- Event Handling
--IIFE(Immediately Invoked Function Expression)
--closures
--forEach
--Mini JavaScript Projects
+
+- **Math and Numbers**
+ - Converting and Checking Numbers
+ - Math and Rounding
+ - The Remainder Operator
+ - Numeric Separator
+ - Working with BigInt
+
+- **Timers (setTimeout and setInterval)**
+- Internationalizing Numbers
+ - Operations with Dates
+
+- **DOM Manipulation**
+  - Selecting, Creating, and Deleting Elements
+  - Implementing Smooth Scrolling
+  - How the DOM Really Works
+
+- **Event Handling**
+ - Types of Events and Event Handlers
+ - Event Propagation (Bubbling & Capturing)
+ - Event Delegation
+
+- **Advanced Concepts**
+- IIFE (Immediately Invoked Function Expression)
+- Closures
+- forEach
+
+- **Object-Oriented Programming (OOP)**
+- What is OOP
+ - Constructor Functions
+ - Prototypes
+ - Prototypal Inheritance and the Prototype Chain
+- ES6 Classes
+
+- **Mini JavaScript Projects**
 
 
 ---
@@ -44,6 +73,9 @@ The goal is to improve my understanding of **core JavaScript concepts**, problem
    -ch#2→ Working with Arrays challenge#2 -> Convert dog ages to human ages, filter adults, and calculate average.
    -ch#3→ Working with Arrays challenge#3 ->  Same as Challenge #2 but using arrow functions and method chaining
    -ch#4→ Challenge #4 - Dog Food Portion Analysis 🐕
+  . **Object-Oriented Programming**
+   📁 oop-challenges → Challenges related to Object-Oriented Programming:
+  - 📁 ch#1 → Constructor Function & Prototype Challenge (Car Example)
 
 📄 **.gitignore** → Files and folders ignored by Git  
 📄 **README.md** → Project documentation
