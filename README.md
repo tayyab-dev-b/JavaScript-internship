@@ -78,6 +78,7 @@ The goal is to improve my understanding of **core JavaScript concepts**, problem
    📁 oop-challenges → Challenges related to Object-Oriented Programming:
   - 📁 ch#1 → Constructor Function & Prototype Challenge (Car Example)
   - 📁 ch#1 → Used ES6 classes with Getter and Setter in this challenge(Reacreate the ch-1)
+  - 📁 ch#3 → Used inheritence with classes constructor function (explore the Example 1)
 
 
 📄 **.gitignore** → Files and folders ignored by Git  
