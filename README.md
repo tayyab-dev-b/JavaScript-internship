@@ -43,7 +43,9 @@ The goal is to improve my understanding of **core JavaScript concepts**, problem
  - Prototypes
  - Prototypal Inheritance and the Prototype Chain
  - ES6 Classes
- -Getters And Setters
+ - Getters And Setters
+ - Encapsulations
+ - method chaining 
 
 - **Mini JavaScript Projects**
 
@@ -79,6 +81,7 @@ The goal is to improve my understanding of **core JavaScript concepts**, problem
   - 📁 ch#1 → Constructor Function & Prototype Challenge (Car Example)
   - 📁 ch#1 → Used ES6 classes with Getter and Setter in this challenge(Reacreate the ch-1)
   - 📁 ch#3 → Used inheritence with classes constructor function (explore the Example 1)
+  - 📁 ch#4 → Used Encapsulations with Es6 classes and mix of OOP concepts 
 
 
 📄 **.gitignore** → Files and folders ignored by Git  
