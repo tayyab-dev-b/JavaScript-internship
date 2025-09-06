@@ -83,6 +83,8 @@ The goal is to improve my understanding of **core JavaScript concepts**, problem
   - 📁 ch#3 → Used inheritence with classes constructor function (explore the Example 1)
   - 📁 ch#4 → Used Encapsulations with Es6 classes and mix of OOP concepts 
 
+. -**Mapty-Project(OOP,Geolocation,Porject-planning)
+
 
 📄 **.gitignore** → Files and folders ignored by Git  
 📄 **README.md** → Project documentation
