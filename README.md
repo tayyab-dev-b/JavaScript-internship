@@ -47,6 +47,11 @@ The goal is to improve my understanding of **core JavaScript concepts**, problem
  - Encapsulations
  - method chaining 
 
+ - **Asynchronous JS**
+  - callback Hell
+  - Promises
+  -Error handelling 
+
 - **Mini JavaScript Projects**
 
 
@@ -82,6 +87,8 @@ The goal is to improve my understanding of **core JavaScript concepts**, problem
   - 📁 ch#1 → Used ES6 classes with Getter and Setter in this challenge(Reacreate the ch-1)
   - 📁 ch#3 → Used inheritence with classes constructor function (explore the Example 1)
   - 📁 ch#4 → Used Encapsulations with Es6 classes and mix of OOP concepts 
+  **Asynchronous JS**
+  - ch#1 → used fetch Api,Promises and error handelling 
 
 . -**Mapty-Project(OOP,Geolocation,Porject-planning)**
 
