@@ -88,8 +88,8 @@ The goal is to improve my understanding of **core JavaScript concepts**, problem
   - 📁 ch#3 → Used inheritence with classes constructor function (explore the Example 1)
   - 📁 ch#4 → Used Encapsulations with Es6 classes and mix of OOP concepts 
   **Asynchronous JS**
-  - ch#1 → used fetch Api,Promises and error handelling 
-
+  - 📁 ch#1 → used fetch Api,Promises and error handelling 
+  - 📁 ch#2 → used promise chaining to fetch the data
 . -**Mapty-Project(OOP,Geolocation,Porject-planning)**
 
 
