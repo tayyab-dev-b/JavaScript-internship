@@ -50,7 +50,8 @@ The goal is to improve my understanding of **core JavaScript concepts**, problem
  - **Asynchronous JS**
   - callback Hell
   - Promises
-  -Error handelling 
+  - Error handelling 
+  - Async/await
 
 - **Mini JavaScript Projects**
 
@@ -90,6 +91,7 @@ The goal is to improve my understanding of **core JavaScript concepts**, problem
   **Asynchronous JS**
   - 📁 ch#1 → used fetch Api,Promises and error handelling 
   - 📁 ch#2 → used promise chaining to fetch the data
+  - 📁 ch#2 → used async await 
 . -**Mapty-Project(OOP,Geolocation,Porject-planning)**
 
 
